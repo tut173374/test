@@ -1,2 +1,3 @@
 This is a sample text
 conflictの練習
+コンフリクトの練習
